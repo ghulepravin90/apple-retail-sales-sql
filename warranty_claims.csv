@@ -1,0 +1,353 @@
+claim_id,claim_date,sale_id,claim_type,repair_status,days_to_claim,claim_amount
+CLM-0001,2024-09-04,S-00004,Screen Display Flickering / Dead Pixels,Repaired & Returned,182,38.12
+CLM-0002,2024-10-31,S-00008,Charging Port / Connection Fault,Rejected - Accidental Damage,298,0.0
+CLM-0003,2024-10-20,S-00018,Logic Board Failure / Boot Loop,Replaced with New Device,40,449.25
+CLM-0004,2024-05-18,S-00026,Battery Degradation / Not Holding Charge,Repaired & Returned,227,200.23
+CLM-0005,2024-09-14,S-00038,Screen Display Flickering / Dead Pixels,Replaced with New Device,58,321.75
+CLM-0006,2024-06-18,S-00042,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,41,0.0
+CLM-0007,2023-11-17,S-00050,Charging Port / Connection Fault,Repaired & Returned,256,83.6
+CLM-0008,2024-10-31,S-00051,Speaker Distortion / Audio Failure,Repaired & Returned,139,84.8
+CLM-0009,2024-09-21,S-00053,Screen Display Flickering / Dead Pixels,Repaired & Returned,6,182.94
+CLM-0010,2024-06-09,S-00059,Charging Port / Connection Fault,Rejected - Accidental Damage,38,0.0
+CLM-0011,2024-10-31,S-00064,Screen Display Flickering / Dead Pixels,Repaired & Returned,167,72.68
+CLM-0012,2024-10-31,S-00067,Speaker Distortion / Audio Failure,Repaired & Returned,183,270.77
+CLM-0013,2024-07-02,S-00084,Battery Degradation / Not Holding Charge,Replaced with New Device,53,1499.25
+CLM-0014,2024-10-31,S-00088,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,308,0.0
+CLM-0015,2024-10-31,S-00094,Speaker Distortion / Audio Failure,Repaired & Returned,195,424.95
+CLM-0016,2024-05-16,S-00107,Logic Board Failure / Boot Loop,Repaired & Returned,98,97.93
+CLM-0017,2024-09-27,S-00108,Battery Degradation / Not Holding Charge,Repaired & Returned,115,54.6
+CLM-0018,2024-04-08,S-00131,Battery Degradation / Not Holding Charge,Replaced with New Device,108,186.75
+CLM-0019,2024-10-31,S-00142,Battery Degradation / Not Holding Charge,Repaired & Returned,244,219.13
+CLM-0020,2023-05-20,S-00149,Speaker Distortion / Audio Failure,Replaced with New Device,21,374.25
+CLM-0021,2024-08-22,S-00154,Battery Degradation / Not Holding Charge,Replaced with New Device,34,749.25
+CLM-0022,2024-07-18,S-00158,Charging Port / Connection Fault,Repaired & Returned,24,219.45
+CLM-0023,2024-03-11,S-00173,Charging Port / Connection Fault,Repaired & Returned,26,237.87
+CLM-0024,2023-12-16,S-00175,Logic Board Failure / Boot Loop,Repaired & Returned,35,83.53
+CLM-0025,2024-02-17,S-00178,Charging Port / Connection Fault,Replaced with New Device,133,749.25
+CLM-0026,2023-07-07,S-00184,Logic Board Failure / Boot Loop,Repaired & Returned,196,37.17
+CLM-0027,2024-05-15,S-00190,Battery Degradation / Not Holding Charge,Repaired & Returned,309,71.47
+CLM-0028,2024-02-15,S-00192,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,12,0.0
+CLM-0029,2023-09-06,S-00201,Camera Sensor Defect,Repaired & Returned,294,51.1
+CLM-0030,2024-07-15,S-00202,Screen Display Flickering / Dead Pixels,Repaired & Returned,81,918.43
+CLM-0031,2024-10-31,S-00203,Screen Display Flickering / Dead Pixels,Repaired & Returned,231,153.31
+CLM-0032,2023-11-30,S-00208,Speaker Distortion / Audio Failure,Repaired & Returned,21,315.92
+CLM-0033,2024-08-25,S-00219,Battery Degradation / Not Holding Charge,Repaired & Returned,226,233.44
+CLM-0034,2023-10-02,S-00234,Screen Display Flickering / Dead Pixels,Pending Inspection,211,199.8
+CLM-0035,2024-10-31,S-00244,Camera Sensor Defect,Replaced with New Device,237,749.25
+CLM-0036,2024-10-31,S-00247,Charging Port / Connection Fault,Replaced with New Device,337,321.75
+CLM-0037,2024-08-23,S-00251,Screen Display Flickering / Dead Pixels,Replaced with New Device,17,749.25
+CLM-0038,2023-08-25,S-00261,Battery Degradation / Not Holding Charge,Pending Inspection,49,199.8
+CLM-0039,2024-10-31,S-00279,Logic Board Failure / Boot Loop,Replaced with New Device,343,449.25
+CLM-0040,2024-06-23,S-00280,Speaker Distortion / Audio Failure,Replaced with New Device,5,1499.25
+CLM-0041,2024-06-16,S-00294,Logic Board Failure / Boot Loop,Replaced with New Device,58,749.25
+CLM-0042,2024-09-15,S-00295,Camera Sensor Defect,Repaired & Returned,133,260.62
+CLM-0043,2023-12-31,S-00302,Logic Board Failure / Boot Loop,Replaced with New Device,4,374.25
+CLM-0044,2024-10-13,S-00304,Screen Display Flickering / Dead Pixels,Replaced with New Device,210,749.25
+CLM-0045,2024-01-09,S-00311,Logic Board Failure / Boot Loop,Repaired & Returned,41,292.53
+CLM-0046,2023-11-28,S-00312,Camera Sensor Defect,Repaired & Returned,287,220.98
+CLM-0047,2024-10-31,S-00317,Battery Degradation / Not Holding Charge,Repaired & Returned,284,254.06
+CLM-0048,2024-10-31,S-00323,Logic Board Failure / Boot Loop,Replaced with New Device,119,749.25
+CLM-0049,2024-10-31,S-00328,Camera Sensor Defect,Repaired & Returned,312,667.09
+CLM-0050,2024-10-31,S-00329,Camera Sensor Defect,Repaired & Returned,323,611.26
+CLM-0051,2024-08-28,S-00347,Speaker Distortion / Audio Failure,Repaired & Returned,165,58.6
+CLM-0052,2024-10-31,S-00356,Charging Port / Connection Fault,Repaired & Returned,192,104.68
+CLM-0053,2023-01-05,S-00357,Screen Display Flickering / Dead Pixels,Repaired & Returned,58,177.24
+CLM-0054,2022-10-26,S-00369,Battery Degradation / Not Holding Charge,Repaired & Returned,10,28.93
+CLM-0055,2024-08-27,S-00373,Speaker Distortion / Audio Failure,Repaired & Returned,218,77.56
+CLM-0056,2024-10-31,S-00376,Logic Board Failure / Boot Loop,Pending Inspection,221,199.8
+CLM-0057,2024-10-31,S-00393,Logic Board Failure / Boot Loop,Replaced with New Device,290,749.25
+CLM-0058,2024-07-30,S-00396,Speaker Distortion / Audio Failure,Repaired & Returned,114,79.69
+CLM-0059,2024-06-30,S-00400,Battery Degradation / Not Holding Charge,Pending Inspection,27,159.8
+CLM-0060,2024-10-31,S-00411,Screen Display Flickering / Dead Pixels,Repaired & Returned,348,197.0
+CLM-0061,2024-10-12,S-00430,Screen Display Flickering / Dead Pixels,Repaired & Returned,12,76.86
+CLM-0062,2022-09-19,S-00437,Speaker Distortion / Audio Failure,Repaired & Returned,12,381.95
+CLM-0063,2024-10-31,S-00448,Charging Port / Connection Fault,Replaced with New Device,349,899.25
+CLM-0064,2024-10-31,S-00449,Battery Degradation / Not Holding Charge,Repaired & Returned,88,208.79
+CLM-0065,2024-10-31,S-00456,Camera Sensor Defect,Repaired & Returned,97,133.64
+CLM-0066,2024-10-31,S-00464,Screen Display Flickering / Dead Pixels,Replaced with New Device,216,749.25
+CLM-0067,2024-06-30,S-00466,Charging Port / Connection Fault,Rejected - Accidental Damage,270,0.0
+CLM-0068,2024-10-31,S-00467,Camera Sensor Defect,Pending Inspection,223,199.8
+CLM-0069,2024-10-31,S-00468,Screen Display Flickering / Dead Pixels,Repaired & Returned,65,121.55
+CLM-0070,2024-02-27,S-00476,Camera Sensor Defect,Repaired & Returned,82,150.05
+CLM-0071,2024-10-02,S-00481,Battery Degradation / Not Holding Charge,Replaced with New Device,52,599.25
+CLM-0072,2024-09-25,S-00485,Screen Display Flickering / Dead Pixels,Repaired & Returned,49,195.69
+CLM-0073,2023-02-15,S-00493,Battery Degradation / Not Holding Charge,Repaired & Returned,305,188.85
+CLM-0074,2023-12-28,S-00497,Logic Board Failure / Boot Loop,Replaced with New Device,102,261.75
+CLM-0075,2022-11-18,S-00524,Charging Port / Connection Fault,Replaced with New Device,217,126.75
+CLM-0076,2024-05-01,S-00537,Screen Display Flickering / Dead Pixels,Repaired & Returned,23,70.51
+CLM-0077,2024-08-21,S-00547,Speaker Distortion / Audio Failure,Repaired & Returned,24,329.99
+CLM-0078,2023-12-25,S-00554,Logic Board Failure / Boot Loop,Repaired & Returned,5,59.91
+CLM-0079,2024-06-27,S-00555,Logic Board Failure / Boot Loop,Repaired & Returned,21,127.39
+CLM-0080,2024-04-21,S-00570,Camera Sensor Defect,Repaired & Returned,17,77.19
+CLM-0081,2023-08-06,S-00586,Charging Port / Connection Fault,Repaired & Returned,48,240.76
+CLM-0082,2024-06-10,S-00588,Camera Sensor Defect,Replaced with New Device,78,899.25
+CLM-0083,2024-09-09,S-00590,Screen Display Flickering / Dead Pixels,Replaced with New Device,174,749.25
+CLM-0084,2023-11-09,S-00603,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,145,0.0
+CLM-0085,2024-08-12,S-00609,Charging Port / Connection Fault,Repaired & Returned,34,173.63
+CLM-0086,2024-10-31,S-00622,Screen Display Flickering / Dead Pixels,Repaired & Returned,115,271.61
+CLM-0087,2024-10-31,S-00624,Speaker Distortion / Audio Failure,Repaired & Returned,289,61.12
+CLM-0088,2024-10-31,S-00637,Logic Board Failure / Boot Loop,Replaced with New Device,126,186.75
+CLM-0089,2024-10-31,S-00641,Logic Board Failure / Boot Loop,Rejected - Accidental Damage,305,0.0
+CLM-0090,2024-10-19,S-00651,Screen Display Flickering / Dead Pixels,Repaired & Returned,44,314.1
+CLM-0091,2024-01-16,S-00655,Screen Display Flickering / Dead Pixels,Replaced with New Device,138,749.25
+CLM-0092,2024-04-23,S-00662,Camera Sensor Defect,Repaired & Returned,20,561.66
+CLM-0093,2024-07-15,S-00666,Camera Sensor Defect,Replaced with New Device,57,321.75
+CLM-0094,2024-10-31,S-00672,Screen Display Flickering / Dead Pixels,Repaired & Returned,355,44.32
+CLM-0095,2024-10-31,S-00678,Charging Port / Connection Fault,Repaired & Returned,349,272.37
+CLM-0096,2024-10-11,S-00681,Battery Degradation / Not Holding Charge,Repaired & Returned,145,262.39
+CLM-0097,2024-10-31,S-00709,Camera Sensor Defect,Rejected - Accidental Damage,324,0.0
+CLM-0098,2024-10-31,S-00710,Logic Board Failure / Boot Loop,Repaired & Returned,307,252.18
+CLM-0099,2024-10-31,S-00711,Battery Degradation / Not Holding Charge,Replaced with New Device,198,599.25
+CLM-0100,2024-10-31,S-00713,Logic Board Failure / Boot Loop,Pending Inspection,161,159.8
+CLM-0101,2024-02-29,S-00716,Speaker Distortion / Audio Failure,Repaired & Returned,6,207.02
+CLM-0102,2024-10-31,S-00734,Charging Port / Connection Fault,Pending Inspection,252,199.8
+CLM-0103,2022-09-04,S-00737,Battery Degradation / Not Holding Charge,Repaired & Returned,6,227.54
+CLM-0104,2024-10-31,S-00750,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,325,0.0
+CLM-0105,2023-01-24,S-00754,Logic Board Failure / Boot Loop,Repaired & Returned,192,164.56
+CLM-0106,2024-05-02,S-00781,Camera Sensor Defect,Repaired & Returned,56,87.02
+CLM-0107,2024-10-31,S-00783,Charging Port / Connection Fault,Pending Inspection,80,159.8
+CLM-0108,2024-08-31,S-00786,Speaker Distortion / Audio Failure,Repaired & Returned,15,139.58
+CLM-0109,2024-07-10,S-00789,Screen Display Flickering / Dead Pixels,Replaced with New Device,47,599.25
+CLM-0110,2024-04-27,S-00795,Speaker Distortion / Audio Failure,Repaired & Returned,122,228.86
+CLM-0111,2024-08-22,S-00796,Battery Degradation / Not Holding Charge,Repaired & Returned,24,344.72
+CLM-0112,2024-08-20,S-00802,Speaker Distortion / Audio Failure,Repaired & Returned,64,139.94
+CLM-0113,2024-04-26,S-00805,Battery Degradation / Not Holding Charge,Repaired & Returned,38,324.81
+CLM-0114,2023-11-24,S-00809,Battery Degradation / Not Holding Charge,Replaced with New Device,319,261.75
+CLM-0115,2024-09-29,S-00810,Charging Port / Connection Fault,Repaired & Returned,14,57.68
+CLM-0116,2024-10-31,S-00811,Battery Degradation / Not Holding Charge,Replaced with New Device,93,749.25
+CLM-0117,2024-10-31,S-00812,Logic Board Failure / Boot Loop,Repaired & Returned,96,295.28
+CLM-0118,2024-10-31,S-00832,Logic Board Failure / Boot Loop,Repaired & Returned,364,308.23
+CLM-0119,2024-10-31,S-00833,Battery Degradation / Not Holding Charge,Repaired & Returned,296,279.85
+CLM-0120,2024-10-31,S-00839,Battery Degradation / Not Holding Charge,Replaced with New Device,314,599.25
+CLM-0121,2024-03-04,S-00845,Charging Port / Connection Fault,Rejected - Accidental Damage,8,0.0
+CLM-0122,2024-10-31,S-00856,Speaker Distortion / Audio Failure,Repaired & Returned,324,252.76
+CLM-0123,2023-12-10,S-00859,Speaker Distortion / Audio Failure,Repaired & Returned,18,73.49
+CLM-0124,2024-10-31,S-00861,Battery Degradation / Not Holding Charge,Repaired & Returned,287,148.57
+CLM-0125,2024-10-31,S-00863,Battery Degradation / Not Holding Charge,Repaired & Returned,265,97.19
+CLM-0126,2024-05-03,S-00867,Battery Degradation / Not Holding Charge,Pending Inspection,122,25.8
+CLM-0127,2024-10-31,S-00872,Screen Display Flickering / Dead Pixels,Repaired & Returned,58,228.0
+CLM-0128,2024-10-31,S-00883,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,320,0.0
+CLM-0129,2024-10-31,S-00884,Battery Degradation / Not Holding Charge,Repaired & Returned,213,114.07
+CLM-0130,2023-12-27,S-00886,Battery Degradation / Not Holding Charge,Repaired & Returned,48,253.45
+CLM-0131,2024-08-30,S-00888,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,215,0.0
+CLM-0132,2024-09-15,S-00891,Logic Board Failure / Boot Loop,Repaired & Returned,322,406.32
+CLM-0133,2024-10-31,S-00899,Camera Sensor Defect,Repaired & Returned,195,134.75
+CLM-0134,2024-01-05,S-00906,Battery Degradation / Not Holding Charge,Pending Inspection,329,199.8
+CLM-0135,2024-09-24,S-00914,Battery Degradation / Not Holding Charge,Pending Inspection,343,159.8
+CLM-0136,2024-10-31,S-00916,Battery Degradation / Not Holding Charge,Repaired & Returned,80,288.75
+CLM-0137,2024-10-31,S-00917,Charging Port / Connection Fault,Repaired & Returned,316,78.91
+CLM-0138,2024-05-03,S-00921,Logic Board Failure / Boot Loop,Repaired & Returned,224,198.37
+CLM-0139,2021-11-01,S-00923,Logic Board Failure / Boot Loop,Repaired & Returned,48,39.45
+CLM-0140,2024-10-15,S-00928,Speaker Distortion / Audio Failure,Rejected - Accidental Damage,50,0.0
+CLM-0141,2023-10-05,S-00937,Battery Degradation / Not Holding Charge,Replaced with New Device,9,186.75
+CLM-0142,2024-10-31,S-00939,Charging Port / Connection Fault,Repaired & Returned,334,175.18
+CLM-0143,2024-10-31,S-00941,Logic Board Failure / Boot Loop,Repaired & Returned,236,62.9
+CLM-0144,2024-10-31,S-00942,Speaker Distortion / Audio Failure,Repaired & Returned,171,157.3
+CLM-0145,2024-10-31,S-00944,Logic Board Failure / Boot Loop,Pending Inspection,320,119.8
+CLM-0146,2024-08-31,S-00953,Logic Board Failure / Boot Loop,Pending Inspection,50,199.8
+CLM-0147,2024-10-31,S-00956,Camera Sensor Defect,Repaired & Returned,179,48.98
+CLM-0148,2024-10-31,S-00963,Speaker Distortion / Audio Failure,Replaced with New Device,177,321.75
+CLM-0149,2024-07-17,S-00965,Speaker Distortion / Audio Failure,Repaired & Returned,283,82.51
+CLM-0150,2024-04-13,S-00971,Screen Display Flickering / Dead Pixels,Replaced with New Device,22,599.25
+CLM-0151,2024-10-31,S-00982,Charging Port / Connection Fault,Repaired & Returned,312,354.27
+CLM-0152,2023-12-03,S-00984,Camera Sensor Defect,Repaired & Returned,21,183.49
+CLM-0153,2024-05-09,S-00986,Speaker Distortion / Audio Failure,Rejected - Accidental Damage,142,0.0
+CLM-0154,2024-06-25,S-00987,Battery Degradation / Not Holding Charge,Repaired & Returned,203,69.76
+CLM-0155,2024-10-31,S-00992,Charging Port / Connection Fault,Repaired & Returned,278,172.81
+CLM-0156,2023-12-26,S-00998,Camera Sensor Defect,Replaced with New Device,57,321.75
+CLM-0157,2024-10-26,S-01012,Charging Port / Connection Fault,Repaired & Returned,37,230.79
+CLM-0158,2024-05-01,S-01027,Camera Sensor Defect,Repaired & Returned,96,36.91
+CLM-0159,2024-10-31,S-01032,Speaker Distortion / Audio Failure,Repaired & Returned,328,153.75
+CLM-0160,2024-10-31,S-01034,Logic Board Failure / Boot Loop,Replaced with New Device,350,599.25
+CLM-0161,2024-06-19,S-01038,Battery Degradation / Not Holding Charge,Pending Inspection,119,199.8
+CLM-0162,2024-10-31,S-01051,Screen Display Flickering / Dead Pixels,Replaced with New Device,355,599.25
+CLM-0163,2024-10-31,S-01065,Speaker Distortion / Audio Failure,Repaired & Returned,239,38.69
+CLM-0164,2024-10-25,S-01067,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,76,0.0
+CLM-0165,2023-10-18,S-01068,Screen Display Flickering / Dead Pixels,Repaired & Returned,29,79.81
+CLM-0166,2024-10-31,S-01069,Camera Sensor Defect,Rejected - Accidental Damage,193,0.0
+CLM-0167,2024-10-31,S-01070,Charging Port / Connection Fault,Repaired & Returned,261,70.22
+CLM-0168,2024-06-01,S-01075,Logic Board Failure / Boot Loop,Repaired & Returned,12,475.6
+CLM-0169,2024-06-14,S-01084,Battery Degradation / Not Holding Charge,Repaired & Returned,70,71.94
+CLM-0170,2024-10-31,S-01091,Logic Board Failure / Boot Loop,Repaired & Returned,164,238.29
+CLM-0171,2024-07-09,S-01097,Logic Board Failure / Boot Loop,Replaced with New Device,12,749.25
+CLM-0172,2023-11-07,S-01101,Speaker Distortion / Audio Failure,Repaired & Returned,25,43.36
+CLM-0173,2024-10-31,S-01110,Charging Port / Connection Fault,Repaired & Returned,281,46.11
+CLM-0174,2024-10-31,S-01115,Screen Display Flickering / Dead Pixels,Replaced with New Device,50,321.75
+CLM-0175,2024-09-19,S-01117,Camera Sensor Defect,Replaced with New Device,327,321.75
+CLM-0176,2024-10-31,S-01143,Camera Sensor Defect,Replaced with New Device,233,749.25
+CLM-0177,2024-06-01,S-01147,Camera Sensor Defect,Rejected - Accidental Damage,7,0.0
+CLM-0178,2023-03-18,S-01153,Speaker Distortion / Audio Failure,Pending Inspection,28,69.8
+CLM-0179,2024-06-05,S-01157,Charging Port / Connection Fault,Replaced with New Device,16,899.25
+CLM-0180,2024-08-23,S-01160,Battery Degradation / Not Holding Charge,Repaired & Returned,147,69.74
+CLM-0181,2024-10-31,S-01163,Camera Sensor Defect,Replaced with New Device,264,321.75
+CLM-0182,2024-08-26,S-01190,Battery Degradation / Not Holding Charge,Repaired & Returned,80,317.01
+CLM-0183,2024-10-31,S-01193,Logic Board Failure / Boot Loop,Repaired & Returned,310,387.56
+CLM-0184,2024-09-07,S-01217,Speaker Distortion / Audio Failure,Repaired & Returned,30,53.22
+CLM-0185,2024-10-31,S-01222,Screen Display Flickering / Dead Pixels,Repaired & Returned,57,84.25
+CLM-0186,2023-07-25,S-01229,Screen Display Flickering / Dead Pixels,Replaced with New Device,315,1199.25
+CLM-0187,2024-06-26,S-01236,Screen Display Flickering / Dead Pixels,Repaired & Returned,261,159.26
+CLM-0188,2024-10-31,S-01245,Battery Degradation / Not Holding Charge,Pending Inspection,134,199.8
+CLM-0189,2023-11-03,S-01270,Speaker Distortion / Audio Failure,Repaired & Returned,88,333.05
+CLM-0190,2024-10-20,S-01275,Screen Display Flickering / Dead Pixels,Repaired & Returned,213,57.83
+CLM-0191,2024-08-04,S-01279,Logic Board Failure / Boot Loop,Replaced with New Device,177,321.75
+CLM-0192,2024-04-21,S-01280,Battery Degradation / Not Holding Charge,Repaired & Returned,3,456.04
+CLM-0193,2024-08-29,S-01284,Speaker Distortion / Audio Failure,Replaced with New Device,151,186.75
+CLM-0194,2024-08-23,S-01296,Charging Port / Connection Fault,Repaired & Returned,32,346.98
+CLM-0195,2024-05-09,S-01304,Charging Port / Connection Fault,Repaired & Returned,32,190.09
+CLM-0196,2024-10-31,S-01305,Logic Board Failure / Boot Loop,Repaired & Returned,194,204.56
+CLM-0197,2024-03-08,S-01313,Charging Port / Connection Fault,Repaired & Returned,59,83.18
+CLM-0198,2024-09-22,S-01320,Speaker Distortion / Audio Failure,Repaired & Returned,234,325.66
+CLM-0199,2023-03-01,S-01330,Battery Degradation / Not Holding Charge,Repaired & Returned,137,69.46
+CLM-0200,2024-05-15,S-01341,Logic Board Failure / Boot Loop,Repaired & Returned,128,27.91
+CLM-0201,2024-07-25,S-01342,Screen Display Flickering / Dead Pixels,Replaced with New Device,45,749.25
+CLM-0202,2022-08-01,S-01343,Battery Degradation / Not Holding Charge,Repaired & Returned,131,39.03
+CLM-0203,2024-05-09,S-01355,Speaker Distortion / Audio Failure,Pending Inspection,104,199.8
+CLM-0204,2024-04-10,S-01357,Battery Degradation / Not Holding Charge,Replaced with New Device,27,321.75
+CLM-0205,2024-10-31,S-01364,Logic Board Failure / Boot Loop,Replaced with New Device,306,749.25
+CLM-0206,2024-10-31,S-01366,Charging Port / Connection Fault,Replaced with New Device,304,321.75
+CLM-0207,2023-08-08,S-01374,Battery Degradation / Not Holding Charge,Repaired & Returned,14,283.88
+CLM-0208,2024-09-17,S-01376,Speaker Distortion / Audio Failure,Rejected - Accidental Damage,52,0.0
+CLM-0209,2023-12-03,S-01380,Screen Display Flickering / Dead Pixels,Repaired & Returned,51,201.92
+CLM-0210,2024-10-31,S-01395,Logic Board Failure / Boot Loop,Replaced with New Device,287,1124.25
+CLM-0211,2021-08-01,S-01406,Camera Sensor Defect,Replaced with New Device,53,96.75
+CLM-0212,2024-10-31,S-01417,Charging Port / Connection Fault,Repaired & Returned,313,282.59
+CLM-0213,2022-08-31,S-01432,Logic Board Failure / Boot Loop,Repaired & Returned,171,191.87
+CLM-0214,2024-08-15,S-01446,Battery Degradation / Not Holding Charge,Repaired & Returned,40,231.17
+CLM-0215,2024-10-31,S-01451,Logic Board Failure / Boot Loop,Repaired & Returned,341,104.99
+CLM-0216,2024-01-15,S-01468,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,25,0.0
+CLM-0217,2021-11-23,S-01491,Speaker Distortion / Audio Failure,Repaired & Returned,21,38.13
+CLM-0218,2022-06-10,S-01504,Logic Board Failure / Boot Loop,Repaired & Returned,59,111.17
+CLM-0219,2024-10-31,S-01507,Speaker Distortion / Audio Failure,Repaired & Returned,193,292.48
+CLM-0220,2023-11-30,S-01517,Camera Sensor Defect,Repaired & Returned,40,252.21
+CLM-0221,2024-08-02,S-01523,Battery Degradation / Not Holding Charge,Replaced with New Device,188,186.75
+CLM-0222,2024-06-12,S-01528,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,117,0.0
+CLM-0223,2023-12-29,S-01529,Battery Degradation / Not Holding Charge,Pending Inspection,27,49.8
+CLM-0224,2024-07-27,S-01530,Speaker Distortion / Audio Failure,Repaired & Returned,6,67.81
+CLM-0225,2024-10-07,S-01532,Charging Port / Connection Fault,Rejected - Accidental Damage,235,0.0
+CLM-0226,2023-08-17,S-01533,Screen Display Flickering / Dead Pixels,Repaired & Returned,241,193.09
+CLM-0227,2024-10-31,S-01535,Screen Display Flickering / Dead Pixels,Replaced with New Device,67,749.25
+CLM-0228,2023-08-27,S-01541,Speaker Distortion / Audio Failure,Replaced with New Device,278,749.25
+CLM-0229,2023-10-10,S-01554,Logic Board Failure / Boot Loop,Pending Inspection,9,199.8
+CLM-0230,2024-10-31,S-01562,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,237,0.0
+CLM-0231,2024-10-31,S-01568,Logic Board Failure / Boot Loop,Replaced with New Device,184,321.75
+CLM-0232,2024-08-03,S-01584,Screen Display Flickering / Dead Pixels,Repaired & Returned,293,273.1
+CLM-0233,2024-07-19,S-01609,Battery Degradation / Not Holding Charge,Repaired & Returned,156,113.82
+CLM-0234,2024-06-09,S-01620,Charging Port / Connection Fault,Repaired & Returned,195,75.55
+CLM-0235,2024-03-11,S-01631,Charging Port / Connection Fault,Repaired & Returned,45,259.71
+CLM-0236,2023-04-23,S-01633,Camera Sensor Defect,Repaired & Returned,150,343.89
+CLM-0237,2023-11-18,S-01634,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,7,0.0
+CLM-0238,2024-10-31,S-01636,Screen Display Flickering / Dead Pixels,Repaired & Returned,323,316.18
+CLM-0239,2023-06-26,S-01640,Charging Port / Connection Fault,Rejected - Accidental Damage,178,0.0
+CLM-0240,2024-10-31,S-01641,Speaker Distortion / Audio Failure,Repaired & Returned,215,146.47
+CLM-0241,2024-03-07,S-01642,Camera Sensor Defect,Replaced with New Device,57,186.75
+CLM-0242,2024-10-31,S-01645,Charging Port / Connection Fault,Replaced with New Device,350,321.75
+CLM-0243,2024-07-31,S-01668,Speaker Distortion / Audio Failure,Replaced with New Device,59,899.25
+CLM-0244,2024-10-31,S-01678,Camera Sensor Defect,Repaired & Returned,335,373.83
+CLM-0245,2024-05-18,S-01685,Camera Sensor Defect,Repaired & Returned,274,464.42
+CLM-0246,2024-04-29,S-01697,Screen Display Flickering / Dead Pixels,Replaced with New Device,21,186.75
+CLM-0247,2024-10-31,S-01705,Camera Sensor Defect,Replaced with New Device,135,749.25
+CLM-0248,2024-10-31,S-01710,Battery Degradation / Not Holding Charge,Repaired & Returned,198,42.36
+CLM-0249,2022-10-24,S-01714,Battery Degradation / Not Holding Charge,Replaced with New Device,28,1199.25
+CLM-0250,2024-09-05,S-01715,Logic Board Failure / Boot Loop,Repaired & Returned,59,127.82
+CLM-0251,2024-10-31,S-01721,Logic Board Failure / Boot Loop,Replaced with New Device,354,449.25
+CLM-0252,2024-10-08,S-01730,Logic Board Failure / Boot Loop,Replaced with New Device,152,186.75
+CLM-0253,2024-10-31,S-01736,Camera Sensor Defect,Repaired & Returned,361,153.5
+CLM-0254,2024-10-31,S-01740,Battery Degradation / Not Holding Charge,Repaired & Returned,120,274.78
+CLM-0255,2024-10-31,S-01751,Speaker Distortion / Audio Failure,Repaired & Returned,288,192.89
+CLM-0256,2022-12-04,S-01762,Screen Display Flickering / Dead Pixels,Replaced with New Device,68,749.25
+CLM-0257,2022-12-02,S-01764,Speaker Distortion / Audio Failure,Repaired & Returned,195,117.37
+CLM-0258,2024-06-26,S-01765,Charging Port / Connection Fault,Repaired & Returned,98,347.96
+CLM-0259,2024-05-01,S-01769,Charging Port / Connection Fault,Repaired & Returned,58,60.22
+CLM-0260,2024-06-25,S-01778,Camera Sensor Defect,Repaired & Returned,124,229.52
+CLM-0261,2022-03-01,S-01791,Logic Board Failure / Boot Loop,Rejected - Accidental Damage,79,0.0
+CLM-0262,2024-10-31,S-01821,Logic Board Failure / Boot Loop,Replaced with New Device,314,749.25
+CLM-0263,2024-07-02,S-01830,Logic Board Failure / Boot Loop,Replaced with New Device,24,899.25
+CLM-0264,2024-04-05,S-01835,Speaker Distortion / Audio Failure,Rejected - Accidental Damage,168,0.0
+CLM-0265,2024-03-10,S-01851,Screen Display Flickering / Dead Pixels,Repaired & Returned,115,127.46
+CLM-0266,2024-05-19,S-01882,Charging Port / Connection Fault,Pending Inspection,11,49.8
+CLM-0267,2024-08-31,S-01887,Screen Display Flickering / Dead Pixels,Replaced with New Device,98,749.25
+CLM-0268,2024-10-31,S-01888,Logic Board Failure / Boot Loop,Replaced with New Device,350,749.25
+CLM-0269,2024-03-14,S-01894,Charging Port / Connection Fault,Replaced with New Device,159,599.25
+CLM-0270,2024-10-10,S-01896,Camera Sensor Defect,Pending Inspection,224,239.8
+CLM-0271,2024-05-25,S-01905,Charging Port / Connection Fault,Repaired & Returned,87,327.84
+CLM-0272,2024-02-11,S-01907,Charging Port / Connection Fault,Rejected - Accidental Damage,20,0.0
+CLM-0273,2024-10-31,S-01909,Logic Board Failure / Boot Loop,Repaired & Returned,314,394.3
+CLM-0274,2024-03-26,S-01919,Speaker Distortion / Audio Failure,Rejected - Accidental Damage,7,0.0
+CLM-0275,2024-08-08,S-01927,Logic Board Failure / Boot Loop,Repaired & Returned,201,124.47
+CLM-0276,2024-10-31,S-01928,Charging Port / Connection Fault,Repaired & Returned,236,168.14
+CLM-0277,2024-10-31,S-01942,Camera Sensor Defect,Repaired & Returned,333,1103.99
+CLM-0278,2023-06-07,S-01945,Charging Port / Connection Fault,Repaired & Returned,45,142.36
+CLM-0279,2024-09-19,S-01951,Charging Port / Connection Fault,Repaired & Returned,37,233.65
+CLM-0280,2024-10-25,S-01953,Logic Board Failure / Boot Loop,Rejected - Accidental Damage,36,0.0
+CLM-0281,2024-10-31,S-01971,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,162,0.0
+CLM-0282,2024-10-31,S-01972,Screen Display Flickering / Dead Pixels,Pending Inspection,345,199.8
+CLM-0283,2024-08-17,S-01973,Camera Sensor Defect,Replaced with New Device,29,186.75
+CLM-0284,2024-07-17,S-01975,Battery Degradation / Not Holding Charge,Replaced with New Device,9,321.75
+CLM-0285,2024-10-17,S-01977,Screen Display Flickering / Dead Pixels,Repaired & Returned,83,290.7
+CLM-0286,2024-07-03,S-01978,Speaker Distortion / Audio Failure,Repaired & Returned,267,646.12
+CLM-0287,2024-05-31,S-01979,Camera Sensor Defect,Repaired & Returned,227,405.85
+CLM-0288,2024-08-12,S-01984,Speaker Distortion / Audio Failure,Repaired & Returned,47,180.28
+CLM-0289,2024-10-31,S-01985,Speaker Distortion / Audio Failure,Replaced with New Device,323,449.25
+CLM-0290,2024-06-30,S-01992,Screen Display Flickering / Dead Pixels,Repaired & Returned,25,339.76
+CLM-0291,2024-09-27,S-01995,Speaker Distortion / Audio Failure,Replaced with New Device,32,1124.25
+CLM-0292,2024-10-21,S-02001,Camera Sensor Defect,Pending Inspection,44,199.8
+CLM-0293,2024-10-31,S-02005,Camera Sensor Defect,Replaced with New Device,271,2624.25
+CLM-0294,2024-10-23,S-02009,Charging Port / Connection Fault,Repaired & Returned,278,606.94
+CLM-0295,2024-10-31,S-02027,Screen Display Flickering / Dead Pixels,Repaired & Returned,294,40.8
+CLM-0296,2024-09-13,S-02031,Speaker Distortion / Audio Failure,Pending Inspection,77,49.8
+CLM-0297,2024-07-01,S-02032,Speaker Distortion / Audio Failure,Replaced with New Device,48,899.25
+CLM-0298,2024-10-31,S-02048,Speaker Distortion / Audio Failure,Repaired & Returned,345,286.82
+CLM-0299,2024-10-31,S-02057,Screen Display Flickering / Dead Pixels,Pending Inspection,44,159.8
+CLM-0300,2023-02-27,S-02061,Charging Port / Connection Fault,Repaired & Returned,41,93.12
+CLM-0301,2024-10-31,S-02063,Camera Sensor Defect,Rejected - Accidental Damage,81,0.0
+CLM-0302,2024-08-17,S-02068,Charging Port / Connection Fault,Replaced with New Device,189,899.25
+CLM-0303,2024-08-14,S-02072,Charging Port / Connection Fault,Repaired & Returned,231,56.47
+CLM-0304,2024-05-01,S-02093,Camera Sensor Defect,Repaired & Returned,52,59.08
+CLM-0305,2023-10-06,S-02106,Battery Degradation / Not Holding Charge,Repaired & Returned,10,270.07
+CLM-0306,2024-10-31,S-02118,Camera Sensor Defect,Repaired & Returned,201,149.16
+CLM-0307,2024-08-20,S-02126,Battery Degradation / Not Holding Charge,Replaced with New Device,135,321.75
+CLM-0308,2024-04-19,S-02127,Camera Sensor Defect,Replaced with New Device,159,899.25
+CLM-0309,2023-05-13,S-02128,Logic Board Failure / Boot Loop,Repaired & Returned,262,156.81
+CLM-0310,2024-10-23,S-02129,Camera Sensor Defect,Replaced with New Device,276,321.75
+CLM-0311,2024-10-31,S-02136,Charging Port / Connection Fault,Repaired & Returned,355,274.35
+CLM-0312,2024-09-17,S-02163,Camera Sensor Defect,Repaired & Returned,33,72.72
+CLM-0313,2024-10-31,S-02178,Screen Display Flickering / Dead Pixels,Repaired & Returned,226,306.11
+CLM-0314,2024-08-09,S-02184,Logic Board Failure / Boot Loop,Repaired & Returned,35,113.1
+CLM-0315,2024-05-21,S-02203,Speaker Distortion / Audio Failure,Repaired & Returned,145,59.74
+CLM-0316,2024-08-14,S-02220,Battery Degradation / Not Holding Charge,Replaced with New Device,25,321.75
+CLM-0317,2023-07-15,S-02233,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,229,0.0
+CLM-0318,2024-06-14,S-02234,Screen Display Flickering / Dead Pixels,Repaired & Returned,159,268.0
+CLM-0319,2024-10-10,S-02246,Screen Display Flickering / Dead Pixels,Repaired & Returned,69,164.03
+CLM-0320,2024-10-31,S-02258,Screen Display Flickering / Dead Pixels,Replaced with New Device,341,1199.25
+CLM-0321,2023-11-28,S-02260,Screen Display Flickering / Dead Pixels,Rejected - Accidental Damage,35,0.0
+CLM-0322,2024-07-15,S-02270,Screen Display Flickering / Dead Pixels,Replaced with New Device,6,749.25
+CLM-0323,2023-11-08,S-02276,Speaker Distortion / Audio Failure,Repaired & Returned,56,50.91
+CLM-0324,2024-05-04,S-02287,Screen Display Flickering / Dead Pixels,Repaired & Returned,62,237.84
+CLM-0325,2024-07-24,S-02292,Charging Port / Connection Fault,Pending Inspection,210,199.8
+CLM-0326,2024-10-17,S-02307,Speaker Distortion / Audio Failure,Repaired & Returned,278,222.44
+CLM-0327,2024-03-01,S-02308,Charging Port / Connection Fault,Replaced with New Device,73,186.75
+CLM-0328,2023-07-15,S-02316,Speaker Distortion / Audio Failure,Repaired & Returned,289,68.46
+CLM-0329,2022-01-08,S-02317,Speaker Distortion / Audio Failure,Repaired & Returned,14,164.05
+CLM-0330,2024-10-30,S-02321,Speaker Distortion / Audio Failure,Repaired & Returned,151,42.8
+CLM-0331,2024-02-07,S-02325,Speaker Distortion / Audio Failure,Repaired & Returned,4,129.44
+CLM-0332,2024-09-08,S-02333,Battery Degradation / Not Holding Charge,Rejected - Accidental Damage,102,0.0
+CLM-0333,2024-10-31,S-02336,Charging Port / Connection Fault,Repaired & Returned,301,196.69
+CLM-0334,2024-09-27,S-02346,Speaker Distortion / Audio Failure,Repaired & Returned,254,213.12
+CLM-0335,2024-06-15,S-02349,Charging Port / Connection Fault,Repaired & Returned,197,77.29
+CLM-0336,2024-04-14,S-02354,Charging Port / Connection Fault,Replaced with New Device,51,899.25
+CLM-0337,2024-08-17,S-02359,Speaker Distortion / Audio Failure,Repaired & Returned,281,67.17
+CLM-0338,2023-02-12,S-02362,Camera Sensor Defect,Rejected - Accidental Damage,55,0.0
+CLM-0339,2024-04-01,S-02365,Camera Sensor Defect,Repaired & Returned,27,596.09
+CLM-0340,2024-08-18,S-02371,Battery Degradation / Not Holding Charge,Repaired & Returned,31,349.03
+CLM-0341,2023-12-05,S-02381,Speaker Distortion / Audio Failure,Replaced with New Device,11,599.25
+CLM-0342,2022-10-31,S-02386,Battery Degradation / Not Holding Charge,Repaired & Returned,10,116.75
+CLM-0343,2024-10-31,S-02387,Camera Sensor Defect,Replaced with New Device,205,599.25
+CLM-0344,2021-11-12,S-02401,Logic Board Failure / Boot Loop,Pending Inspection,42,119.8
+CLM-0345,2024-09-17,S-02413,Camera Sensor Defect,Repaired & Returned,54,510.05
+CLM-0346,2023-02-11,S-02441,Speaker Distortion / Audio Failure,Rejected - Accidental Damage,17,0.0
+CLM-0347,2023-12-24,S-02453,Screen Display Flickering / Dead Pixels,Replaced with New Device,46,749.25
+CLM-0348,2024-06-03,S-02468,Logic Board Failure / Boot Loop,Repaired & Returned,102,281.77
+CLM-0349,2024-07-24,S-02486,Battery Degradation / Not Holding Charge,Repaired & Returned,134,184.36
+CLM-0350,2024-10-31,S-02493,Charging Port / Connection Fault,Repaired & Returned,291,320.1
+CLM-0351,2024-09-02,S-02495,Screen Display Flickering / Dead Pixels,Repaired & Returned,263,186.9
+CLM-0352,2024-09-13,S-02500,Charging Port / Connection Fault,Repaired & Returned,190,238.29

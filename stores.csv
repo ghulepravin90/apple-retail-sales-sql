@@ -1,0 +1,16 @@
+store_id,store_name,city,country,region
+ST-101,Apple Fifth Avenue,New York,United States,Americas
+ST-102,Apple Regent Street,London,United Kingdom,Europe
+ST-103,Apple Ginza,Tokyo,Japan,Asia Pacific
+ST-104,Apple BKC,Mumbai,India,Asia Pacific
+ST-105,Apple Marina Bay Sands,Singapore,Singapore,Asia Pacific
+ST-106,Apple Champs-Élysées,Paris,France,Europe
+ST-107,Apple Sydney,Sydney,Australia,Asia Pacific
+ST-108,Apple Kurfürstendamm,Berlin,Germany,Europe
+ST-109,Apple Toronto Eaton Centre,Toronto,Canada,Americas
+ST-110,Apple Dubai Mall,Dubai,UAE,Middle East
+ST-111,Apple Union Square,San Francisco,United States,Americas
+ST-112,Apple Covent Garden,London,United Kingdom,Europe
+ST-113,Apple Saket,New Delhi,India,Asia Pacific
+ST-114,Apple Piazza Liberty,Milan,Italy,Europe
+ST-115,Apple Shibuya,Tokyo,Japan,Asia Pacific
